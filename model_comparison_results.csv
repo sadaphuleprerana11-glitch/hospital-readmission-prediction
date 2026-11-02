@@ -1,0 +1,4 @@
+Model,Validation Threshold,Test Accuracy,Test Precision,Test Recall,Test F1,Test ROC-AUC
+Logistic Regression,0.5,0.6385,0.1528,0.5253,0.2368,0.6242
+Random Forest,0.5,0.6286,0.1575,0.57,0.2468,0.6436
+Gradient Boosting,0.13,0.7432,0.1882,0.4245,0.2608,0.6619
